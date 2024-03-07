@@ -1,0 +1,134 @@
+body {
+  background: #333;
+  margin: 2rem;
+}
+#video-compare-container-1 {
+  display: inline-block;
+  line-height: 0;
+  position: relative;
+  width: 100%;
+  padding-top: 42.3%;
+}
+#video-compare-container-1 > video {
+  width: 100%;
+  position: absolute;
+  top: 0; height: 100%;
+}
+#video-clipper-1 {
+  width: 50%; position: absolute;
+  top: 0; bottom: 0;
+  overflow: hidden;
+}
+#video-clipper-1 video {
+  width: 200%;
+  postion: absolute;
+  height: 100%;
+}
+
+body {
+  background: #333;
+  margin: 2rem;
+}
+#video-compare-container-2 {
+  display: inline-block;
+  line-height: 0;
+  position: relative;
+  width: 100%;
+  padding-top: 42.3%;
+}
+#video-compare-container-2 > video {
+  width: 100%;
+  position: absolute;
+  top: 0; height: 100%;
+}
+#video-clipper-2 {
+  width: 50%; position: absolute;
+  top: 0; bottom: 0;
+  overflow: hidden;
+}
+#video-clipper-2 video {
+  width: 200%;
+  postion: absolute;
+  height: 100%;
+}
+
+body {
+  background: #333;
+  margin: 2rem;
+}
+#video-compare-container-3 {
+  display: inline-block;
+  line-height: 0;
+  position: relative;
+  width: 100%;
+  padding-top: 42.3%;
+}
+#video-compare-container-3 > video {
+  width: 100%;
+  position: absolute;
+  top: 0; height: 100%;
+}
+#video-clipper-3 {
+  width: 50%; position: absolute;
+  top: 0; bottom: 0;
+  overflow: hidden;
+}
+#video-clipper-3 video {
+  width: 200%;
+  postion: absolute;
+  height: 100%;
+}
+
+body {
+  background: #333;
+  margin: 2rem;
+}
+#video-compare-container-4 {
+  display: inline-block;
+  line-height: 0;
+  position: relative;
+  width: 100%;
+  padding-top: 42.3%;
+}
+#video-compare-container-4 > video {
+  width: 100%;
+  position: absolute;
+  top: 0; height: 100%;
+}
+#video-clipper-4 {
+  width: 50%; position: absolute;
+  top: 0; bottom: 0;
+  overflow: hidden;
+}
+#video-clipper-4 video {
+  width: 200%;
+  postion: absolute;
+  height: 100%;
+}
+
+body {
+  background: #333;
+  margin: 2rem;
+}
+#video-compare-container-5 {
+  display: inline-block;
+  line-height: 0;
+  position: relative;
+  width: 100%;
+  padding-top: 42.3%;
+}
+#video-compare-container-5 > video {
+  width: 100%;
+  position: absolute;
+  top: 0; height: 100%;
+}
+#video-clipper-5 {
+  width: 50%; position: absolute;
+  top: 0; bottom: 0;
+  overflow: hidden;
+}
+#video-clipper-5 video {
+  width: 200%;
+  postion: absolute;
+  height: 100%;
+}
