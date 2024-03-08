@@ -22,7 +22,7 @@ body {
 }
 #video-clipper-1 video {
   width: 200%;
-  postion: absolute;
+  position: absolute;
   height: 100%;
 }
 
