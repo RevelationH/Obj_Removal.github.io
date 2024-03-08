@@ -5,6 +5,7 @@ body {
 #video-compare-container-1 {
   display: inline-block;
   line-height: 0;
+  align-items: center;
   position: relative;
   width: 100%;
   padding-top: 42.3%;
@@ -32,6 +33,7 @@ body {
 #video-compare-container-2 {
   display: inline-block;
   line-height: 0;
+  align-items: center;
   position: relative;
   width: 100%;
   padding-top: 42.3%;
