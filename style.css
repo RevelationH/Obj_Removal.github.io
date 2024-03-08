@@ -3,23 +3,22 @@ body {
   margin: 2rem;
 }
 #video-compare-container-1 {
-  display: inline-block;
-  line-height: 0;
+  display: flex;
+  justify-content: center;
   align-items: center;
   position: relative;
   width: 100%;
   padding-top: 42.3%;
 }
-#video-compare-container-1 > video {
-  width: 100%;
-  position: absolute;
-  top: 0; height: 100%;
-}
+
 #video-clipper-1 {
-  width: 50%; position: absolute;
-  top: 0; bottom: 0;
+  width: 50%;
+  position: absolute;
+  top: 0;
+  bottom: 0;
   overflow: hidden;
 }
+
 #video-clipper-1 video {
   width: 200%;
   position: absolute;
