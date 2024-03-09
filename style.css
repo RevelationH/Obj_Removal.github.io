@@ -1,11 +1,30 @@
 body {
-  background: #333;
+  background: #080808;
   margin: 2rem;
 }
-body {
-  background: #333;
-  margin: 2rem;
+
+h1 {
+  margin-bottom: 60px; /* 在标题下方增加20px的间距 */
+  text-align: center;
+  font-size: 100px; /* 设置字体大小为 24 像素 */
+  font-weight: bold; /* 设置字体加粗 */
+  color: #f7f7f7;
 }
+
+p {
+  font-size: 1.3em;
+  text-align: center;
+  font-size: 50px; /* 设置字体大小为 24 像素 */
+  color: #f7f7f7;
+}
+
+h2 {
+  margin-bottom: 10px; /* 在标题下方增加20px的间距 */
+  text-align: center;
+  font-size: 50px; /* 设置字体大小为 24 像素 */
+  color: #f7f7f7;
+}
+
 #video-compare-container-1 {
   display: inline-block;
   line-height: 0;
@@ -29,10 +48,6 @@ body {
   height: 100%;
 }
 
-body {
-  background: #333;
-  margin: 2rem;
-}
 #video-compare-container-2 {
   display: inline-block;
   line-height: 0;
@@ -56,10 +71,6 @@ body {
   height: 100%;
 }
 
-body {
-  background: #333;
-  margin: 2rem;
-}
 #video-compare-container-3 {
   display: inline-block;
   line-height: 0;
@@ -83,10 +94,6 @@ body {
   height: 100%;
 }
 
-body {
-  background: #333;
-  margin: 2rem;
-}
 #video-compare-container-4 {
   display: inline-block;
   line-height: 0;
@@ -110,10 +117,6 @@ body {
   height: 100%;
 }
 
-body {
-  background: #333;
-  margin: 2rem;
-}
 #video-compare-container-5 {
   display: inline-block;
   line-height: 0;
