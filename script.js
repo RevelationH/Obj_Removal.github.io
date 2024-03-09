@@ -14,7 +14,6 @@ function createTrackLocationHandler(containerId, clipperId) {
   };
 }
 
-// 为第一个视频容器设置事件处理
 var trackLocation1 = createTrackLocationHandler("video-compare-container-1", "video-clipper-1");
 var videoContainer1 = document.getElementById("video-compare-container-1");
 videoContainer1.addEventListener("mousemove", trackLocation1, false); 
