@@ -3,21 +3,23 @@ body {
   margin: 2rem;
 }
 #video-compare-container-1 {
-  display: inline-block;
-  line-height: 0;
-  position: relative;
-  width: 100%;
-  padding-top: 42.3%;
+  display: flex;
+  justify-content: center;
+  overflow: hidden; /* 隐藏超出容器的部分 */
+  width: 800px; /* 设置容器宽度 */
+  position: relative; /* 设置相对定位，用于绝对定位剪辑器 */
 }
+
 #video-compare-container-1 > video {
   width: 100%;
   position: absolute;
   top: 0; height: 100%;
 }
 #video-clipper-1 {
-  width: 50%; position: absolute;
-  top: 0; bottom: 0;
-  overflow: hidden;
+  width: 50%; /* 设置剪辑器宽度 */
+  position: absolute; /* 设置绝对定位，让剪辑器在容器内部移动 */
+  top: 0;
+  left: 0;
 }
 #video-clipper-1 video {
   width: 200%;
